@@ -192,7 +192,7 @@
 							rus: 'Скрытый враг'
 						},
 						intro: {
-							eng: '',
+							eng: 'Truth enlightens the mind, but won''t always bring happiness to your heart.',
 							rus: 'Правда открывает глаза, но сердцу часто причиняет боль.'
 						}
 					}
@@ -204,7 +204,7 @@
 							rus: 'Вирус «Синий призрак»'
 						},
 						intro: {
-							eng: '',
+							eng: 'Fear is a disease; hope is its only cure.',
 							rus: 'Страх — это болезнь, единственное лекарство от него — надежда.'
 						}
 					}
@@ -216,7 +216,7 @@
 							rus: 'Тайна тысячи лун'
 						},
 						intro: {
-							eng: '',
+							eng: 'A single chance is a galaxy of hope.',
 							rus: 'Случайность может спасти галактику.'
 						}
 					}
@@ -228,7 +228,7 @@
 							rus: 'Сражение при Рилоте'
 						},
 						intro: {
-							eng: '',
+							eng: 'It is a rough road that leads to the heights of greatness.',
 							rus: 'Тяжек путь к величию.'
 						}
 					}
@@ -240,7 +240,7 @@
 							rus: 'Невинные жертвы Рилота'
 						},
 						intro: {
-							eng: '',
+							eng: 'The costs of war can never be truly accounted for.',
 							rus: 'Невозможно исчислить цену войны.'
 						}
 					}
@@ -252,7 +252,7 @@
 							rus: 'Освобождение Рилота'
 						},
 						intro: {
-							eng: '',
+							eng: 'Compromise is a virtue to be cultivated, not a weakness to be despised.',
 							rus: 'Компромисс — добродетель которую нужно возделывать, а не слабость, которую нужно презирать.'
 						}
 					}
@@ -264,7 +264,7 @@
 							rus: 'Захват заложников'
 						},
 						intro: {
-							eng: '',
+							eng: 'A secret shared is a trust formed.',
 							rus: 'Общая тайна формирует доверие.'
 						}
 					}
