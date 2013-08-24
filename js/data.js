@@ -1,5 +1,5 @@
-(function () {
-    var data = window.data = { };
+(function (application) {
+    var data = application.data = { };
 
     data.seasons = [
         {
@@ -294,4 +294,4 @@
         }
     ];
 
-})();
+})(Application);
