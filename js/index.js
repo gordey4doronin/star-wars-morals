@@ -6,8 +6,9 @@ $(document).ready(function () {
 
     // set language toggling
     setInterval(function () {
-        viewModel.toggleLang();
-    }, 5000);
+//        viewModel.toggleLang();
+        viewModel.selectRandomEpisode();
+    }, 10000);
 
     // set sound volume
     $('audio').get(0).volume = 0.3;
