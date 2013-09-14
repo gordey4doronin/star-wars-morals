@@ -1,0 +1,46 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    line-height: 1;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #ffffff;
+    background: #000000;
+}
+
+.masthead {
+    min-height: 100%;
+    height: 100%;
+    text-align: center;
+    display: block;
+}
+
+.masthead .container {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    left: 0;
+    width: 80%;
+    margin-top: -15%;
+}
+
+.masthead h1 {
+    font-size: 6em;
+    font-family: inherit;
+    line-height: inherit;
+    margin-bottom: 0;
+    color: #1986B5;
+    font-weight: 100;
+    letter-spacing: normal;
+    cursor: default;
+}
+
+h1 {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: -moz-none;
+    -ms-user-select: none;
+    user-select: none;
+}
