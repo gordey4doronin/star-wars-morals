@@ -551,23 +551,24 @@
         },
         {
             id: 4,
-            period: null,
+            premiere: '2011/09/16',
+            finale: '2012/03/16',
             episodes: [
                 {
-                    id: 1,
-                    productionId: '',
+                    id: 67,
+                    productionId: '3.22',
                     title: {
-                        eng: 'Water Wars',
+                        eng: 'Water War',
                         rus: 'Война в морских глубинах'
                     },
                     moral: {
                         eng: 'When destiny calls, the chosen have no choice.',
-                        rus: 'Когда зовёт судьба, у избранных не выбора.'
+                        rus: 'Когда зовёт судьба, у избранных нет выбора.'
                     }
                 },
                 {
-                    id: 2,
-                    productionId: '',
+                    id: 68,
+                    productionId: '3.23',
                     title: {
                         eng: 'Gungan Attack',
                         rus: 'Атака Гунганов'
@@ -578,20 +579,20 @@
                     }
                 },
                 {
-                    id: 3,
-                    productionId: '',
+                    id: 69,
+                    productionId: '3.24',
                     title: {
                         eng: 'Prisoners',
                         rus: 'Пленники'
                     },
                     moral: {
-                        eng: 'Crowns are inherited, kindoms are earned.',
+                        eng: 'Crowns are inherited, kingdoms are earned.',
                         rus: 'Корона переходит по наследству, королевство надо заслужить.'
                     }
                 },
                 {
-                    id: 4,
-                    productionId: '',
+                    id: 70,
+                    productionId: '3.19',
                     title: {
                         eng: 'Shadow Warrior',
                         rus: 'Тайный враг'
@@ -602,8 +603,8 @@
                     }
                 },
                 {
-                    id: 5,
-                    productionId: '',
+                    id: 71,
+                    productionId: '3.20',
                     title: {
                         eng: 'Mercy Mission',
                         rus: 'Гуманитарная миссия'
@@ -614,11 +615,11 @@
                     }
                 },
                 {
-                    id: 6,
-                    productionId: '',
+                    id: 72,
+                    productionId: '3.21',
                     title: {
                         eng: 'Nomad Droids',
-                        rus: 'Дроиды-скитальцы'
+                        rus: 'Дроиды-кочевники'
                     },
                     moral: {
                         eng: 'Who\'s the more foolish, the fool or the fool who follows him?',
@@ -626,8 +627,8 @@
                     }
                 },
                 {
-                    id: 7,
-                    productionId: '',
+                    id: 73,
+                    productionId: '3.25',
                     title: {
                         eng: 'Darkness on Umbara',
                         rus: 'Тьма на Умбаре'
@@ -638,8 +639,8 @@
                     }
                 },
                 {
-                    id: 8,
-                    productionId: '',
+                    id: 74,
+                    productionId: '3.26',
                     title: {
                         eng: 'The General',
                         rus: 'Генерал'
@@ -650,20 +651,20 @@
                     }
                 },
                 {
-                    id: 9,
-                    productionId: '',
+                    id: 75,
+                    productionId: '4.01',
                     title: {
                         eng: 'Plan of Dissent',
                         rus: 'План несогласных'
                     },
                     moral: {
                         eng: 'The wise man leads, the strong man follows.',
-                        rus: 'Сильный победит одного, знающий тысячу.'
+                        rus: 'Мудрый ведёт за собой сильного.'
                     }
                 },
                 {
-                    id: 10,
-                    productionId: '',
+                    id: 76,
+                    productionId: '4.02',
                     title: {
                         eng: 'Carnage of Krell',
                         rus: 'Бойня генерала Крелла'
@@ -674,22 +675,22 @@
                     }
                 },
                 {
-                    id: 11,
-                    productionId: '',
+                    id: 77,
+                    productionId: '4.03',
                     title: {
                         eng: 'Kidnapped',
-                        rus: 'Похищение'
+                        rus: 'Похищенные'
                     },
                     moral: {
-                        eng: 'Where we are going alwayas reflects where we came from.',
+                        eng: 'Where we are going always reflects where we came from.',
                         rus: 'Прошлое определяет наше будущее.'
                     }
                 },
                 {
-                    id: 12,
-                    productionId: '',
+                    id: 78,
+                    productionId: '4.04',
                     title: {
-                        eng: 'Slaves of the Republuc',
+                        eng: 'Slaves of the Republic',
                         rus: 'Рабы Республики'
                     },
                     moral: {
@@ -698,11 +699,11 @@
                     }
                 },
                 {
-                    id: 13,
-                    productionId: '',
+                    id: 79,
+                    productionId: '4.05',
                     title: {
                         eng: 'Escape from Kadavo',
-                        rus: 'Побег из Кадаво'
+                        rus: 'Побег с Кадаво'
                     },
                     moral: {
                         eng: 'Great hope can come from small sacrifices.',
@@ -710,8 +711,8 @@
                     }
                 },
                 {
-                    id: 14,
-                    productionId: '',
+                    id: 80,
+                    productionId: '4.06',
                     title: {
                         eng: 'A Friend in Need',
                         rus: 'Друзья познаются в беде'
@@ -722,11 +723,11 @@
                     }
                 },
                 {
-                    id: 15,
-                    productionId: '',
+                    id: 81,
+                    productionId: '4.07',
                     title: {
                         eng: 'Deception',
-                        rus: 'Под прикрытием'
+                        rus: 'Обман'
                     },
                     moral: {
                         eng: 'All warfare is based on deception.',
@@ -734,8 +735,8 @@
                     }
                 },
                 {
-                    id: 16,
-                    productionId: '',
+                    id: 82,
+                    productionId: '4.08',
                     title: {
                         eng: 'Friends and Enemies',
                         rus: 'Друзья и враги'
@@ -746,32 +747,32 @@
                     }
                 },
                 {
-                    id: 17,
-                    productionId: '',
+                    id: 83,
+                    productionId: '4.09',
                     title: {
                         eng: 'The Box',
                         rus: 'Куб'
                     },
                     moral: {
                         eng: 'The strong survive, the noble overcome.',
-                        rus: 'Сильный борется за выживание любой ценой, благородный преодолевает трудности не причиняя никому вреда.'
+                        rus: 'Сильный выживает, благородный побеждает.'
                     }
                 },
                 {
-                    id: 18,
-                    productionId: '',
+                    id: 84,
+                    productionId: '4.10',
                     title: {
                         eng: 'Crisis on Naboo',
                         rus: 'Кризис на Набу'
                     },
                     moral: {
                         eng: 'Trust is the greatest of gifts, but it must be earned.',
-                        rus: 'Доверие - ценный дар, заслужить трудно, потерять легко.'
+                        rus: 'Доверие есть ценный дар, но заслужить его необходимо.'
                     }
                 },
                 {
-                    id: 19,
-                    productionId: '',
+                    id: 85,
+                    productionId: '4.11',
                     title: {
                         eng: 'Massacre',
                         rus: 'Резня'
@@ -782,8 +783,8 @@
                     }
                 },
                 {
-                    id: 20,
-                    productionId: '',
+                    id: 86,
+                    productionId: '4.12',
                     title: {
                         eng: 'Bounty',
                         rus: 'Награда'
@@ -794,8 +795,8 @@
                     }
                 },
                 {
-                    id: 21,
-                    productionId: '',
+                    id: 87,
+                    productionId: '4.13',
                     title: {
                         eng: 'Brothers',
                         rus: 'Братья'
@@ -806,8 +807,8 @@
                     }
                 },
                 {
-                    id: 22,
-                    productionId: '',
+                    id: 88,
+                    productionId: '4.14',
                     title: {
                         eng: 'Revenge',
                         rus: 'Месть'
@@ -816,8 +817,8 @@
                         eng: 'The enemy of my enemy is my friend.',
                         rus: 'Враг моего врага - мой друг.'
                     }
-                },
-             ]
+                }
+            ]
         },
         {
             id: 5,
