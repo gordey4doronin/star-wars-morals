@@ -552,7 +552,272 @@
         {
             id: 4,
             period: null,
-            episodes: []
+            episodes: [
+                {
+                    id: 1,
+                    productionId: '',
+                    title: {
+                        eng: 'Water Wars',
+                        rus: 'Война в морских глубинах'
+                    },
+                    moral: {
+                        eng: 'When destiny calls, the chosen have no choice.',
+                        rus: 'Когда зовёт судьба, у избранных не выбора.'
+                    }
+                },
+                {
+                    id: 2,
+                    productionId: '',
+                    title: {
+                        eng: 'Gungan Attack',
+                        rus: 'Атака Гунганов'
+                    },
+                    moral: {
+                        eng: 'Only through fire is a strong sword forged.',
+                        rus: 'Только огнём закаляется сталь.'
+                    }
+                },
+                {
+                    id: 3,
+                    productionId: '',
+                    title: {
+                        eng: 'Prisoners',
+                        rus: 'Пленники'
+                    },
+                    moral: {
+                        eng: 'Crowns are inherited, kindoms are earned.',
+                        rus: 'Корона переходит по наследству, королевство надо заслужить.'
+                    }
+                },
+                {
+                    id: 4,
+                    productionId: '',
+                    title: {
+                        eng: 'Shadow Warrior',
+                        rus: 'Тайный враг'
+                    },
+                    moral: {
+                        eng: 'Who a person truly is cannot be seen with the eye.',
+                        rus: 'За внешним обличием скрывается внутренняя суть.'
+                    }
+                },
+                {
+                    id: 5,
+                    productionId: '',
+                    title: {
+                        eng: 'Mercy Mission',
+                        rus: 'Гуманитарная миссия'
+                    },
+                    moral: {
+                        eng: 'Understanding is honoring the truth beneath the surface.',
+                        rus: 'Стремление понять помогает обнаружить истину.'
+                    }
+                },
+                {
+                    id: 6,
+                    productionId: '',
+                    title: {
+                        eng: 'Nomad Droids',
+                        rus: 'Дроиды-скитальцы'
+                    },
+                    moral: {
+                        eng: 'Who\'s the more foolish, the fool or the fool who follows him?',
+                        rus: 'Кто глупее, дурак или тот кто его слушает?'
+                    }
+                },
+                {
+                    id: 7,
+                    productionId: '',
+                    title: {
+                        eng: 'Darkness on Umbara',
+                        rus: 'Тьма на Умбаре'
+                    },
+                    moral: {
+                        eng: 'The first step towards loyalty is trust.',
+                        rus: 'Без доверия преданность не заслужить.'
+                    }
+                },
+                {
+                    id: 8,
+                    productionId: '',
+                    title: {
+                        eng: 'The General',
+                        rus: 'Генерал'
+                    },
+                    moral: {
+                        eng: 'The path of ignorance is guided by fear.',
+                        rus: 'Тропу невежества прокладывает стах.'
+                    }
+                },
+                {
+                    id: 9,
+                    productionId: '',
+                    title: {
+                        eng: 'Plan of Dissent',
+                        rus: 'План несогласных'
+                    },
+                    moral: {
+                        eng: 'The wise man leads, the strong man follows.',
+                        rus: 'Сильный победит одного, знающий тысячу.'
+                    }
+                },
+                {
+                    id: 10,
+                    productionId: '',
+                    title: {
+                        eng: 'Carnage of Krell',
+                        rus: 'Бойня генерала Крелла'
+                    },
+                    moral: {
+                        eng: 'Our actions define our legacy.',
+                        rus: 'Будущее зависит от наших поступков.'
+                    }
+                },
+                {
+                    id: 11,
+                    productionId: '',
+                    title: {
+                        eng: 'Kidnapped',
+                        rus: 'Похищение'
+                    },
+                    moral: {
+                        eng: 'Where we are going alwayas reflects where we came from.',
+                        rus: 'Прошлое определяет наше будущее.'
+                    }
+                },
+                {
+                    id: 12,
+                    productionId: '',
+                    title: {
+                        eng: 'Slaves of the Republuc',
+                        rus: 'Рабы Республики'
+                    },
+                    moral: {
+                        eng: 'Those who enslave others, inevitably become slaves themselves.',
+                        rus: 'Тот кто порабощает сам становится рабом.'
+                    }
+                },
+                {
+                    id: 13,
+                    productionId: '',
+                    title: {
+                        eng: 'Escape from Kadavo',
+                        rus: 'Побег из Кадаво'
+                    },
+                    moral: {
+                        eng: 'Great hope can come from small sacrifices.',
+                        rus: 'Благодаря самоотверженности сбываются надежды.'
+                    }
+                },
+                {
+                    id: 14,
+                    productionId: '',
+                    title: {
+                        eng: 'A Friend in Need',
+                        rus: 'Друзья познаются в беде'
+                    },
+                    moral: {
+                        eng: 'Friendship shows us who we really are.',
+                        rus: 'Скажи мне кто твой друг и я скажу кто ты.'
+                    }
+                },
+                {
+                    id: 15,
+                    productionId: '',
+                    title: {
+                        eng: 'Deception',
+                        rus: 'Под прикрытием'
+                    },
+                    moral: {
+                        eng: 'All warfare is based on deception.',
+                        rus: 'Война это путь обмана.'
+                    }
+                },
+                {
+                    id: 16,
+                    productionId: '',
+                    title: {
+                        eng: 'Friends and Enemies',
+                        rus: 'Друзья и враги'
+                    },
+                    moral: {
+                        eng: 'Keep your friends close, but keep your enemies closer.',
+                        rus: 'Держи друзей близко, а врагов ещё ближе.'
+                    }
+                },
+                {
+                    id: 17,
+                    productionId: '',
+                    title: {
+                        eng: 'The Box',
+                        rus: 'Куб'
+                    },
+                    moral: {
+                        eng: 'The strong survive, the noble overcome.',
+                        rus: 'Сильный борется за выживание любой ценой, благородный преодолевает трудности не причиняя никому вреда.'
+                    }
+                },
+                {
+                    id: 18,
+                    productionId: '',
+                    title: {
+                        eng: 'Crisis on Naboo',
+                        rus: 'Кризис на Набу'
+                    },
+                    moral: {
+                        eng: 'Trust is the greatest of gifts, but it must be earned.',
+                        rus: 'Доверие - ценный дар, заслужить трудно, потерять легко.'
+                    }
+                },
+                {
+                    id: 19,
+                    productionId: '',
+                    title: {
+                        eng: 'Massacre',
+                        rus: 'Резня'
+                    },
+                    moral: {
+                        eng: 'One must let go of the past to hold on to the future.',
+                        rus: 'Будешь цепляться за прошлое, потеряешь будущее.'
+                    }
+                },
+                {
+                    id: 20,
+                    productionId: '',
+                    title: {
+                        eng: 'Bounty',
+                        rus: 'Награда'
+                    },
+                    moral: {
+                        eng: 'Who we are never changes, who we think we are does.',
+                        rus: 'Мы никогда не меняемся, меняются наши взгляды.'
+                    }
+                },
+                {
+                    id: 21,
+                    productionId: '',
+                    title: {
+                        eng: 'Brothers',
+                        rus: 'Братья'
+                    },
+                    moral: {
+                        eng: 'A fallen enemy may rise again, but the reconciled one is truly vanquished.',
+                        rus: 'Побеждён не тот кто повержен, а тот кто смирился.'
+                    }
+                },
+                {
+                    id: 22,
+                    productionId: '',
+                    title: {
+                        eng: 'Revenge',
+                        rus: 'Месть'
+                    },
+                    moral: {
+                        eng: 'The enemy of my enemy is my friend.',
+                        rus: 'Враг моего врага - мой друг.'
+                    }
+                },
+             ]
         },
         {
             id: 5,
