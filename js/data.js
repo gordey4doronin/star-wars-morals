@@ -824,6 +824,172 @@
             id: 5,
             period: null,
             episodes: []
+        },
+        {
+            id: 6,
+            premiere: '2014/02/15',
+            finale: '2014/03/07',
+            episodes: [
+                {
+                    id: 109,
+                    productionId: '5.12',
+                    title: {
+                        // Gordey Doronin @ 21 April 2014
+                        // It's not clear which title is right one
+                        // Either "The Unknown" or "Condition Unknown"
+                        eng: 'Condition Unknown',
+                        rus: ''
+                    },
+                    moral: {
+                        eng: 'The truth about yourself is always the hardest to accept.',
+                        rus: ''
+                    }
+                },
+                {
+                    id: 110,
+                    productionId: '5.13',
+                    title: {
+                        eng: 'Conspiracy',
+                        rus: ''
+                    },
+                    moral: {
+                        eng: 'The wise benefit from a second opinion.',
+                        rus: ''
+                    }
+                },
+                {
+                    id: 111,
+                    productionId: '5.14',
+                    title: {
+                        eng: 'Fugitive',
+                        rus: ''
+                    },
+                    moral: {
+                        eng: 'When in doubt, go to the source.',
+                        rus: ''
+                    }
+                },
+                {
+                    id: 112,
+                    productionId: '5.15',
+                    title: {
+                        eng: 'Orders',
+                        rus: ''
+                    },
+                    moral: {
+                        eng: 'The popular belief isn\'t always the correct one.',
+                        rus: ''
+                    }
+                },
+                {
+                    id: 113,
+                    productionId: '4.19',
+                    title: {
+                        eng: 'An Old Friend',
+                        rus: ''
+                    },
+                    moral: {
+                        eng: 'To love, is to trust. To trust is to believe.',
+                        rus: ''
+                    }
+                },
+                {
+                    id: 114,
+                    productionId: '4.20',
+                    title: {
+                        eng: 'The Rise of Clovis',
+                        rus: ''
+                    },
+                    moral: {
+                        eng: 'Jealousy is the path to chaos.',
+                        rus: ''
+                    }
+                },
+                {
+                    id: 115,
+                    productionId: '4.21',
+                    title: {
+                        eng: 'Crisis at the Heart',
+                        rus: ''
+                    },
+                    moral: {
+                        eng: 'Deceit is the weapon of greed.',
+                        rus: ''
+                    }
+                },
+                {
+                    id: 116,
+                    productionId: '5.16',
+                    title: {
+                        eng: 'The Disappeared, Part I',
+                        rus: ''
+                    },
+                    moral: {
+                        eng: 'Without darkness there cannot be light.',
+                        rus: ''
+                    }
+                },
+                {
+                    id: 117,
+                    productionId: '5.17',
+                    title: {
+                        eng: 'The Disappeared, Part II',
+                        rus: ''
+                    },
+                    moral: {
+                        eng: 'Wisdom is born in fools as well as wise men.',
+                        rus: ''
+                    }
+                },
+                {
+                    id: 118,
+                    productionId: '5.18',
+                    title: {
+                        eng: 'The Lost One',
+                        rus: ''
+                    },
+                    moral: {
+                        eng: 'What is lost is often found.',
+                        rus: ''
+                    }
+                },
+                {
+                    id: 119,
+                    productionId: '5.19',
+                    title: {
+                        eng: 'Voices',
+                        rus: ''
+                    },
+                    moral: {
+                        eng: 'Madness can sometimes be the path to truth.',
+                        rus: ''
+                    }
+                },
+                {
+                    id: 120,
+                    productionId: '5.20',
+                    title: {
+                        eng: 'Destiny',
+                        rus: ''
+                    },
+                    moral: {
+                        eng: 'Death is just the beginning.',
+                        rus: ''
+                    }
+                },
+                {
+                    id: 121,
+                    productionId: '5.21',
+                    title: {
+                        eng: 'Sacrifice',
+                        rus: ''
+                    },
+                    moral: {
+                        eng: 'Facing all that you fear will free you from yourself.',
+                        rus: ''
+                    }
+                }
+            ]
         }
     ];
 
