@@ -1091,165 +1091,188 @@
         {
             id: 6,
             premiere: '2014/02/15',
-            finale: '2014/03/07',
+            finale: '2014/03/08',
             episodes: [
                 {
                     id: 109,
                     productionId: '5.12',
+                    order: 1,
                     title: {
-                        // Gordey Doronin @ 21 April 2014
-                        // It's not clear which title is right one
-                        // Either "The Unknown" or "Condition Unknown"
-                        eng: 'Condition Unknown',
-                        rus: ''
+                        eng: 'The Unknown',
+                        rus: 'Неизвестность'
                     },
                     moral: {
                         eng: 'The truth about yourself is always the hardest to accept.',
-                        rus: ''
+                        rus: 'Самое трудное - признать правду о самом себе.'
+                        //rus: 'Всегда трудно согласиться с правдой, которую говорят о тебе.'
                     }
                 },
                 {
                     id: 110,
                     productionId: '5.13',
+                    order: 2,
                     title: {
                         eng: 'Conspiracy',
-                        rus: ''
+                        rus: 'Заговор'
                     },
                     moral: {
                         eng: 'The wise benefit from a second opinion.',
-                        rus: ''
+                        rus: 'Умный прислушивается к чужому мнению.'
+                        //rus: 'Мудро - прислушиваться к каждому мнению.'
                     }
                 },
                 {
                     id: 111,
                     productionId: '5.14',
+                    order: 3,
                     title: {
                         eng: 'Fugitive',
-                        rus: ''
+                        rus: 'Беглец'
                     },
                     moral: {
                         eng: 'When in doubt, go to the source.',
-                        rus: ''
+                        rus: 'Если сомневаешься, обратись к первоисточнику'
+                        //rus: 'Когда ты в сомнении, ищи причину.'
                     }
                 },
                 {
                     id: 112,
                     productionId: '5.15',
+                    order: 4,
                     title: {
                         eng: 'Orders',
-                        rus: ''
+                        rus: 'Приказы'
                     },
                     moral: {
                         eng: 'The popular belief isn\'t always the correct one.',
-                        rus: ''
+                        rus: 'Не стоит безоговорочно верить устоявшемуся мнению.'
+                        //rus: 'Всеобщее мнение не всегда является верным.'
                     }
                 },
                 {
                     id: 113,
                     productionId: '4.19',
+                    order: 5,
                     title: {
                         eng: 'An Old Friend',
-                        rus: ''
+                        rus: 'Старый друг'
                     },
                     moral: {
                         eng: 'To love, is to trust. To trust is to believe.',
-                        rus: ''
+                        rus: 'Чтобы любить нужно доверять. Чтобы доверять нужно верить.'
+                        //rus: 'Любить значит доверять. Доверять значит верить.'
                     }
                 },
                 {
                     id: 114,
                     productionId: '4.20',
+                    order: 6,
                     title: {
                         eng: 'The Rise of Clovis',
-                        rus: ''
+                        rus: 'Успех Кловиса'
                     },
                     moral: {
                         eng: 'Jealousy is the path to chaos.',
-                        rus: ''
+                        rus: 'Ревность ведёт к разрушению.'
+                        //rus: 'Ревность - кратчайший путь к хаосу.'
                     }
                 },
                 {
                     id: 115,
                     productionId: '4.21',
+                    order: 7,
                     title: {
                         eng: 'Crisis at the Heart',
-                        rus: ''
+                        rus: 'Душевный кризис'
                     },
                     moral: {
                         eng: 'Deceit is the weapon of greed.',
-                        rus: ''
+                        rus: 'Обман - оружие жадных.'
+                        //rus: 'Самое алчное оружие это обман.'
                     }
                 },
                 {
                     id: 116,
                     productionId: '5.16',
+                    order: 8,
                     title: {
                         eng: 'The Disappeared, Part I',
-                        rus: ''
+                        rus: 'Исчезнувшие. Часть 1'
                     },
                     moral: {
                         eng: 'Without darkness there cannot be light.',
-                        rus: ''
+                        rus: 'Не бывает тьмы без света.'
+                        //rus: 'Без тьмы не может быть и света.'
                     }
                 },
                 {
                     id: 117,
                     productionId: '5.17',
+                    order: 9,
                     title: {
                         eng: 'The Disappeared, Part II',
-                        rus: ''
+                        rus: 'Исчезнувшие. Часть 2'
                     },
                     moral: {
                         eng: 'Wisdom is born in fools as well as wise men.',
-                        rus: ''
+                        rus: 'И глупец способен на мудрость.'
+                        //rus: 'Высшая мудрость - это познание самого себя.'
                     }
                 },
                 {
                     id: 118,
                     productionId: '5.18',
+                    order: 10,
                     title: {
                         eng: 'The Lost One',
-                        rus: ''
+                        rus: 'Пропавший без вести'
                     },
                     moral: {
                         eng: 'What is lost is often found.',
-                        rus: ''
+                        rus: 'Однажды пропавшие часто находятся.'
+                        //rus: 'То что пропало, рано или поздно найдется.'
                     }
                 },
                 {
                     id: 119,
                     productionId: '5.19',
+                    order: 11,
                     title: {
                         eng: 'Voices',
-                        rus: ''
+                        rus: 'Голоса'
                     },
                     moral: {
                         eng: 'Madness can sometimes be the path to truth.',
-                        rus: ''
+                        rus: 'За ошибкой безумия кроется истина, прокладывающая себе путь.'
+                        //rus: 'Безумие - это первый шаг к истине.'
                     }
                 },
                 {
                     id: 120,
                     productionId: '5.20',
+                    order: 12,
                     title: {
                         eng: 'Destiny',
-                        rus: ''
+                        rus: 'Судьба'
                     },
                     moral: {
                         eng: 'Death is just the beginning.',
-                        rus: ''
+                        rus: 'Смерть - всего лишь начало.'
+                        //rus: 'Смерть - это только начало.'
                     }
                 },
                 {
                     id: 121,
                     productionId: '5.21',
+                    order: 13,
                     title: {
                         eng: 'Sacrifice',
-                        rus: ''
+                        rus: 'Жертва'
                     },
                     moral: {
                         eng: 'Facing all that you fear will free you from yourself.',
-                        rus: ''
+                        rus: 'Только поборов свои страхи можно обрести свободу.'
+                        //rus: 'Столкнувшись с тем, чего ты боишься, будешь бояться самого себя.'
                     }
                 }
             ]
