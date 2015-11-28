@@ -822,8 +822,270 @@
         },
         {
             id: 5,
-            period: null,
-            episodes: []
+            premiere: '2012/09/29',
+            finale: '2013/03/02',
+            episodes: [
+                {
+                    id: 89,
+                    productionId: '4.26',
+                    order: 1,
+                    title: {
+                        eng: 'Revival',
+                        rus: 'Возрождение'
+                    },
+                    moral: {
+                        eng: 'Strength in character can defeat strength in numbers.',
+                        rus: 'Сильный телом - победит одного, сильный духом - тысячи.'
+                    }
+                },
+                {
+                    id: 90,
+                    productionId: '4.15',
+                    order: 2,
+                    title: {
+                        eng: 'A War on Two Fronts',
+                        rus: 'Война на два фронта'
+                    },
+                    moral: {
+                        eng: 'Fear is a malleable weapon.',
+                        rus: 'Страх можно превратить в оружие.'
+                    }
+                },
+                {
+                    id: 91,
+                    productionId: '4.16',
+                    order: 3,
+                    title: {
+                        eng: 'Front Runners',
+                        rus: 'Претенденты'
+                    },
+                    moral: {
+                        eng: 'To seek something is to believe in its possibility.',
+                        rus: 'Добиваться чего-то - значит верить в вероятность этого.'
+                    }
+                },
+                {
+                    id: 92,
+                    productionId: '4.17',
+                    order: 4,
+                    title: {
+                        eng: 'The Soft War',
+                        rus: 'Мягкая война'
+                    },
+                    moral: {
+                        eng: 'Struggles often begin and end with the truth.',
+                        rus: 'Правда - причина начала и конца многих войн.'
+                    }
+                },
+                {
+                    id: 93,
+                    productionId: '4.18',
+                    order: 5,
+                    title: {
+                        eng: 'Tipping Points',
+                        rus: 'Переломный момент'
+                    },
+                    moral: {
+                        eng: 'Disobedience is a demand for change.',
+                        rus: 'Неповиновение - есть требование перемен.'
+                    }
+                },
+                {
+                    id: 94,
+                    productionId: '4.22',
+                    order: 6,
+                    title: {
+                        eng: 'The Gathering',
+                        rus: 'Сборы'
+                    },
+                    moral: {
+                        eng: 'He who faces himself, finds himself.',
+                        rus: 'Обратившись лицом к себе, обретаешь себя.'
+                    }
+                },
+                {
+                    id: 95,
+                    productionId: '4.23',
+                    order: 7,
+                    title: {
+                        eng: 'A Test of Strength',
+                        rus: 'Испытание силы'
+                    },
+                    moral: {
+                        eng: 'The young are often underestimated.',
+                        rus: 'Молодых часто недооценивают.'
+                    }
+                },
+                {
+                    id: 96,
+                    productionId: '4.24',
+                    order: 8,
+                    title: {
+                        eng: 'Bound for Rescue',
+                        rus: 'На пути к спасению'
+                    },
+                    moral: {
+                        eng: 'When we rescue others, we rescue ourselves.',
+                        rus: 'Спасая других, мы спасаем себя.'
+                    }
+                },
+                {
+                    id: 97,
+                    productionId: '4.25',
+                    order: 9,
+                    title: {
+                        eng: 'A Necessary Bond',
+                        rus: 'Вынужденный союз'
+                    },
+                    moral: {
+                        eng: 'Choose your enemies wisely, as they may be your last hope.',
+                        rus: 'Выбирай врагов с умом, они могут оказаться твоей последней надеждой.'
+                    }
+                },
+                {
+                    id: 98,
+                    productionId: '5.04',
+                    order: 10,
+                    title: {
+                        eng: 'Secret Weapons',
+                        rus: 'Секретное оружие'
+                    },
+                    moral: {
+                        eng: 'Humility is the only defense against humiliation.',
+                        rus: 'Смирение - единственная защита от унижений.'
+                    }
+                },
+                {
+                    id: 99,
+                    productionId: '5.05',
+                    order: 11,
+                    title: {
+                        eng: 'A Sunny Day in the Void',
+                        rus: 'Солнечный денёк в пустоте'
+                    },
+                    moral: {
+                        eng: 'When all seems hopeless, a true hero gives hope.',
+                        rus: 'Когда всё кажется безысходным, истинный герой дарит надежду.'
+                    }
+                },
+                {
+                    id: 100,
+                    productionId: '5.06',
+                    order: 12,
+                    title: {
+                        eng: 'Missing in Action',
+                        rus: 'Пропавший без вести'
+                    },
+                    moral: {
+                        eng: 'A soldier\'s most powerful weapon is courage.',
+                        rus: 'Самое мощное оружие солдата - отвага.'
+                    }
+                },
+                {
+                    id: 101,
+                    productionId: '5.07',
+                    order: 13,
+                    title: {
+                        eng: 'Point of No Return',
+                        rus: 'Точка невозврата'
+                    },
+                    moral: {
+                        eng: 'You must trust in others or success is impossible.',
+                        rus: 'Надо доверять другим, иначе успех невозможен.'
+                    }
+                },
+                {
+                    id: 102,
+                    productionId: '5.01',
+                    order: 14,
+                    title: {
+                        eng: 'Eminence',
+                        rus: 'Путь к власти'
+                    },
+                    moral: {
+                        eng: 'One vision can have many interpretations.',
+                        rus: 'Один образ может иметь много интерпретаций.'
+                    }
+                },
+                {
+                    id: 103,
+                    productionId: '5.02',
+                    order: 15,
+                    title: {
+                        eng: 'Shades of Reason',
+                        rus: 'Скрытые мотивы'
+                    },
+                    moral: {
+                        eng: 'Alliances can stall true intentions.',
+                        rus: 'Союзы способны отвлекать внимание от истинных намерений.'
+                    }
+                },
+                {
+                    id: 104,
+                    productionId: '5.03',
+                    order: 16,
+                    title: {
+                        eng: 'The Lawless',
+                        rus: 'Беззаконный'
+                    },
+                    moral: {
+                        eng: 'Morality separates heroes from villains.',
+                        rus: 'Мораль отличает героев от злодеев.'
+                    }
+                },
+                {
+                    id: 105,
+                    productionId: '5.08',
+                    order: 17,
+                    title: {
+                        eng: 'Sabotage',
+                        rus: 'Саботаж'
+                    },
+                    moral: {
+                        eng: 'Sometimes even the smallest doubt can shake the greatest belief.',
+                        rus: 'Порой даже малейшее сомнение способно подорвать великую веру.'
+                    }
+                },
+                {
+                    id: 106,
+                    productionId: '5.09',
+                    order: 18,
+                    title: {
+                        eng: 'The Jedi Who Knew Too Much',
+                        rus: 'Джедай, который слишком много знал'
+                    },
+                    moral: {
+                        eng: 'Courage begins by trusting oneself.',
+                        rus: 'Отвага начинается с веры в себя.'
+                    }
+                },
+                {
+                    id: 107,
+                    productionId: '5.10',
+                    order: 19,
+                    title: {
+                        eng: 'To Catch a Jedi',
+                        rus: 'Схватить джедая'
+                    },
+                    moral: {
+                        eng: 'Never become desperate enough to trust the untrustworthy.',
+                        rus: 'Никогда не отчаивайся до такой степени, чтобы доверять сомнительному.'
+                    }
+                },
+                {
+                    id: 108,
+                    productionId: '5.11',
+                    order: 20,
+                    title: {
+                        eng: 'The Wrong Jedi',
+                        rus: 'Не тот джедай'
+                    },
+                    moral: {
+                        eng: 'Never give up hope, no matter how dark things seem.',
+                        rus: 'Никогда не теряй надежду, даже в самые мрачные моменты жизни.'
+                    }
+                }
+            ]
         },
         {
             id: 6,
