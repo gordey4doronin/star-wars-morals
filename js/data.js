@@ -546,7 +546,8 @@
         },
         {
             id: 3,
-            period: null,
+            premiere: '2010/09/17',
+            finale: '2011/04/01',
             episodes: []
         },
         {
