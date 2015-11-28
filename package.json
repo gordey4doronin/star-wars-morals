@@ -1,0 +1,32 @@
+{
+  "name": "star-wars-morals",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GDoronin/swtcw-morals-js.git"
+  },
+  "keywords": [
+    "starwars",
+    "star",
+    "wars",
+    "clone",
+    "wars",
+    "morals"
+  ],
+  "author": "Gordey Doronin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GDoronin/swtcw-morals-js/issues"
+  },
+  "homepage": "https://github.com/GDoronin/swtcw-morals-js#readme"
+}
