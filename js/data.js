@@ -10,6 +10,7 @@
                 {
                     id: 1,
                     productionId: '1.08',
+                    order: 1,
                     title: {
                         eng: 'Ambush',
                         rus: 'Засада'
@@ -22,6 +23,7 @@
                 {
                     id: 2,
                     productionId: '1.07',
+                    order: 2,
                     title: {
                         eng: 'Rising Malevolence',
                         rus: 'Наступление «Зловещего»'
@@ -34,6 +36,7 @@
                 {
                     id: 3,
                     productionId: '1.09',
+                    order: 3,
                     title: {
                         eng: 'Shadow of Malevolence',
                         rus: 'Тень «Зловещего»'
@@ -46,6 +49,7 @@
                 {
                     id: 4,
                     productionId: '1.11',
+                    order: 4,
                     title: {
                         eng: 'Destroy Malevolence',
                         rus: 'Гибель «Зловещего»'
@@ -58,6 +62,7 @@
                 {
                     id: 5,
                     productionId: '1.14',
+                    order: 5,
                     title: {
                         eng: 'Rookies',
                         rus: 'Салаги'
@@ -70,6 +75,7 @@
                 {
                     id: 6,
                     productionId: '1.02',
+                    order: 6,
                     title: {
                         eng: 'Downfall of a Droid',
                         rus: 'Утрата дройда'
@@ -82,6 +88,7 @@
                 {
                     id: 7,
                     productionId: '1.06',
+                    order: 7,
                     title: {
                         eng: 'Duel of the Droids',
                         rus: 'Дуэль дроидов'
@@ -94,6 +101,7 @@
                 {
                     id: 8,
                     productionId: '1.05',
+                    order: 8,
                     title: {
                         eng: 'Bombad Jedi',
                         rus: 'Джедая бомбад'
@@ -106,6 +114,7 @@
                 {
                     id: 9,
                     productionId: '1.10',
+                    order: 9,
                     title: {
                         eng: 'Cloak of Darkness',
                         rus: 'Маска Тьмы'
@@ -118,6 +127,7 @@
                 {
                     id: 10,
                     productionId: '1.12',
+                    order: 10,
                     title: {
                         eng: 'Lair of Grievous',
                         rus: 'Логово Гривуса'
@@ -130,6 +140,7 @@
                 {
                     id: 11,
                     productionId: '1.16',
+                    order: 11,
                     title: {
                         eng: 'Dooku Captured',
                         rus: 'Дуку в плену'
@@ -142,6 +153,7 @@
                 {
                     id: 12,
                     productionId: '1.20',
+                    order: 12,
                     title: {
                         eng: 'The Gungan General',
                         rus: 'Генерал Гунган'
@@ -154,6 +166,7 @@
                 {
                     id: 13,
                     productionId: '1.22',
+                    order: 13,
                     title: {
                         eng: 'Jedi Crash',
                         rus: 'Авария джедаев'
@@ -166,6 +179,7 @@
                 {
                     id: 14,
                     productionId: '1.24',
+                    order: 14,
                     title: {
                         eng: 'Defenders of Peace',
                         rus: 'Хранители мира'
@@ -178,6 +192,7 @@
                 {
                     id: 15,
                     productionId: '1.25',
+                    order: 15,
                     title: {
                         eng: 'Trespass',
                         rus: 'Нарушители границы'
@@ -190,6 +205,7 @@
                 {
                     id: 16,
                     productionId: '2.01',
+                    order: 16,
                     title: {
                         eng: 'The Hidden Enemy',
                         rus: 'Скрытый враг'
@@ -202,6 +218,7 @@
                 {
                     id: 17,
                     productionId: '1.26',
+                    order: 17,
                     title: {
                         eng: 'Blue Shadow Virus',
                         rus: 'Вирус «Синий призрак»'
@@ -214,6 +231,7 @@
                 {
                     id: 18,
                     productionId: '2.02',
+                    order: 18,
                     title: {
                         eng: 'Mystery of a Thousand Moons',
                         rus: 'Тайна тысячи лун'
@@ -226,6 +244,7 @@
                 {
                     id: 19,
                     productionId: '1.15',
+                    order: 19,
                     title: {
                         eng: 'Storm Over Ryloth',
                         rus: 'Сражение при Рилоте'
@@ -238,6 +257,7 @@
                 {
                     id: 20,
                     productionId: '1.17',
+                    order: 20,
                     title: {
                         eng: 'Innocents of Ryloth',
                         rus: 'Невинные жертвы Рилота'
@@ -250,6 +270,7 @@
                 {
                     id: 21,
                     productionId: '1.19',
+                    order: 21,
                     title: {
                         eng: 'Liberty on Ryloth',
                         rus: 'Освобождение Рилота'
@@ -262,6 +283,7 @@
                 {
                     id: 22,
                     productionId: '2.04',
+                    order: 22,
                     title: {
                         eng: 'Hostage Crisis',
                         rus: 'Захват заложников'
@@ -281,6 +303,7 @@
                 {
                     id: 23,
                     productionId: '1.23',
+                    order: 1,
                     title: {
                         eng: 'Holocron Heist',
                         rus: 'Похищение Голокрона'
@@ -293,6 +316,7 @@
                 {
                     id: 24,
                     productionId: '1.13',
+                    order: 2,
                     title: {
                         eng: 'Cargo of Doom',
                         rus: 'Корабль обречённых'
@@ -305,6 +329,7 @@
                 {
                     id: 25,
                     productionId: '2.03',
+                    order: 3,
                     title: {
                         eng: 'Children of the Force',
                         rus: 'Дети Силы'
@@ -317,6 +342,7 @@
                 {
                     id: 26,
                     productionId: '2.05',
+                    order: 4,
                     title: {
                         eng: 'Senate Spy',
                         rus: 'Шпион Сената'
@@ -329,6 +355,7 @@
                 {
                     id: 27,
                     productionId: '2.07',
+                    order: 5,
                     title: {
                         eng: 'Landing at Point Rain',
                         rus: 'Высадка в Пойнт Рэйн'
@@ -341,6 +368,7 @@
                 {
                     id: 28,
                     productionId: '2.08',
+                    order: 6,
                     title: {
                         eng: 'Weapons Factory',
                         rus: 'Оружейная фабрика'
@@ -353,6 +381,7 @@
                 {
                     id: 29,
                     productionId: '2.09',
+                    order: 7,
                     title: {
                         eng: 'Legacy of Terror',
                         rus: 'Наследие террора'
@@ -365,6 +394,7 @@
                 {
                     id: 30,
                     productionId: '2.12',
+                    order: 8,
                     title: {
                         eng: 'Brain Invaders',
                         rus: 'Контроль Разума'
@@ -377,6 +407,7 @@
                 {
                     id: 31,
                     productionId: '2.14',
+                    order: 9,
                     title: {
                         eng: 'Grievous Intrigue',
                         rus: 'Происки Гривуса'
@@ -389,6 +420,7 @@
                 {
                     id: 32,
                     productionId: '2.06',
+                    order: 10,
                     title: {
                         eng: 'The Deserter',
                         rus: 'Дезертир'
@@ -401,6 +433,7 @@
                 {
                     id: 33,
                     productionId: '2.11',
+                    order: 11,
                     title: {
                         eng: 'Lightsaber Lost',
                         rus: 'Потерянный меч'
@@ -413,6 +446,7 @@
                 {
                     id: 34,
                     productionId: '2.13',
+                    order: 12,
                     title: {
                         eng: 'The Mandalore Plot',
                         rus: 'Мандалорский заговор'
@@ -425,6 +459,7 @@
                 {
                     id: 35,
                     productionId: '1.21',
+                    order: 13,
                     title: {
                         eng: 'Voyage of Temptation',
                         rus: 'Вояж искушений'
@@ -437,6 +472,7 @@
                 {
                     id: 36,
                     productionId: '2.16',
+                    order: 14,
                     title: {
                         eng: 'Duchess of Mandalore',
                         rus: 'Герцогиня Мандалора'
@@ -449,6 +485,7 @@
                 {
                     id: 37,
                     productionId: '2.10',
+                    order: 15,
                     title: {
                         eng: 'Senate Murders',
                         rus: 'Убийства в Сенате'
@@ -461,6 +498,7 @@
                 {
                     id: 38,
                     productionId: '2.17',
+                    order: 16,
                     title: {
                         eng: 'Cats and Mice',
                         rus: 'Кошки — мышки'
@@ -473,6 +511,7 @@
                 {
                     id: 39,
                     productionId: '2.19',
+                    order: 17,
                     title: {
                         eng: 'Bounty Hunters',
                         rus: 'Наёмники'
@@ -485,6 +524,7 @@
                 {
                     id: 40,
                     productionId: '2.22',
+                    order: 18,
                     title: {
                         eng: 'The Zillo Beast',
                         rus: 'Гад Зилло'
@@ -497,6 +537,7 @@
                 {
                     id: 41,
                     productionId: '2.23',
+                    order: 19,
                     title: {
                         eng: 'The Zillo Beast Strikes Back',
                         rus: 'Зилло наносит ответный удар'
@@ -509,6 +550,7 @@
                 {
                     id: 42,
                     productionId: '2.15',
+                    order: 20,
                     title: {
                         eng: 'Death Trap',
                         rus: 'Смертельная ловушка'
@@ -521,6 +563,7 @@
                 {
                     id: 43,
                     productionId: '2.18',
+                    order: 21,
                     title: {
                         eng: 'R2 Come Home',
                         rus: 'Ар-Два, лети домой!'
@@ -533,6 +576,7 @@
                 {
                     id: 44,
                     productionId: '2.20',
+                    order: 22,
                     title: {
                         eng: 'Lethal Trackdown',
                         rus: 'Смертельная погоня'
@@ -558,6 +602,7 @@
                 {
                     id: 67,
                     productionId: '3.22',
+                    order: 1,
                     title: {
                         eng: 'Water War',
                         rus: 'Война в морских глубинах'
@@ -570,6 +615,7 @@
                 {
                     id: 68,
                     productionId: '3.23',
+                    order: 2,
                     title: {
                         eng: 'Gungan Attack',
                         rus: 'Атака Гунганов'
@@ -582,6 +628,7 @@
                 {
                     id: 69,
                     productionId: '3.24',
+                    order: 3,
                     title: {
                         eng: 'Prisoners',
                         rus: 'Пленники'
@@ -594,6 +641,7 @@
                 {
                     id: 70,
                     productionId: '3.19',
+                    order: 4,
                     title: {
                         eng: 'Shadow Warrior',
                         rus: 'Тайный враг'
@@ -606,6 +654,7 @@
                 {
                     id: 71,
                     productionId: '3.20',
+                    order: 5,
                     title: {
                         eng: 'Mercy Mission',
                         rus: 'Гуманитарная миссия'
@@ -618,6 +667,7 @@
                 {
                     id: 72,
                     productionId: '3.21',
+                    order: 6,
                     title: {
                         eng: 'Nomad Droids',
                         rus: 'Дроиды-кочевники'
@@ -630,6 +680,7 @@
                 {
                     id: 73,
                     productionId: '3.25',
+                    order: 7,
                     title: {
                         eng: 'Darkness on Umbara',
                         rus: 'Тьма на Умбаре'
@@ -642,6 +693,7 @@
                 {
                     id: 74,
                     productionId: '3.26',
+                    order: 8,
                     title: {
                         eng: 'The General',
                         rus: 'Генерал'
@@ -654,6 +706,7 @@
                 {
                     id: 75,
                     productionId: '4.01',
+                    order: 9,
                     title: {
                         eng: 'Plan of Dissent',
                         rus: 'План несогласных'
@@ -666,6 +719,7 @@
                 {
                     id: 76,
                     productionId: '4.02',
+                    order: 10,
                     title: {
                         eng: 'Carnage of Krell',
                         rus: 'Бойня генерала Крелла'
@@ -678,6 +732,7 @@
                 {
                     id: 77,
                     productionId: '4.03',
+                    order: 11,
                     title: {
                         eng: 'Kidnapped',
                         rus: 'Похищенные'
@@ -690,6 +745,7 @@
                 {
                     id: 78,
                     productionId: '4.04',
+                    order: 12,
                     title: {
                         eng: 'Slaves of the Republic',
                         rus: 'Рабы Республики'
@@ -702,6 +758,7 @@
                 {
                     id: 79,
                     productionId: '4.05',
+                    order: 13,
                     title: {
                         eng: 'Escape from Kadavo',
                         rus: 'Побег с Кадаво'
@@ -714,6 +771,7 @@
                 {
                     id: 80,
                     productionId: '4.06',
+                    order: 14,
                     title: {
                         eng: 'A Friend in Need',
                         rus: 'Друзья познаются в беде'
@@ -726,6 +784,7 @@
                 {
                     id: 81,
                     productionId: '4.07',
+                    order: 15,
                     title: {
                         eng: 'Deception',
                         rus: 'Обман'
@@ -738,6 +797,7 @@
                 {
                     id: 82,
                     productionId: '4.08',
+                    order: 16,
                     title: {
                         eng: 'Friends and Enemies',
                         rus: 'Друзья и враги'
@@ -750,6 +810,7 @@
                 {
                     id: 83,
                     productionId: '4.09',
+                    order: 17,
                     title: {
                         eng: 'The Box',
                         rus: 'Куб'
@@ -762,6 +823,7 @@
                 {
                     id: 84,
                     productionId: '4.10',
+                    order: 18,
                     title: {
                         eng: 'Crisis on Naboo',
                         rus: 'Кризис на Набу'
@@ -774,6 +836,7 @@
                 {
                     id: 85,
                     productionId: '4.11',
+                    order: 19,
                     title: {
                         eng: 'Massacre',
                         rus: 'Резня'
@@ -786,6 +849,7 @@
                 {
                     id: 86,
                     productionId: '4.12',
+                    order: 20,
                     title: {
                         eng: 'Bounty',
                         rus: 'Награда'
@@ -798,6 +862,7 @@
                 {
                     id: 87,
                     productionId: '4.13',
+                    order: 21,
                     title: {
                         eng: 'Brothers',
                         rus: 'Братья'
@@ -810,6 +875,7 @@
                 {
                     id: 88,
                     productionId: '4.14',
+                    order: 22,
                     title: {
                         eng: 'Revenge',
                         rus: 'Месть'
