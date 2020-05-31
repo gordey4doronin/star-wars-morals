@@ -94,3 +94,16 @@ describe('lambda handler', () => {
     result.should.have.all.keys(['id', 'productionId', 'order', 'title', 'moral'])
   });
 });
+
+/**
+ * This test is here just to make sure JS data is up to date with JSON data.
+ * In future JSON file should be used in all places and this test to be removed same as JS file itself.
+ */
+describe('data', () => {
+  const dataJs = require('../js/data')
+  const dataJson = require('../lambda-functions/data.json')
+
+  it('should be equal in json and js files', () => {
+    dataJs.should.deep.equal(dataJson)
+  })
+})
