@@ -21,7 +21,9 @@ jobs:
         aws-region: us-west-2
 
     - name: Zip folder
-      run: zip -r function.zip ./lambda-functions
+      run: |
+        cd lambda-functions
+        zip -r ../function.zip
 
     - name: Copy files to AWS
       run: |
