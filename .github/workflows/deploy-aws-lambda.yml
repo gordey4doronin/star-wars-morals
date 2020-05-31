@@ -1,3 +1,9 @@
+name: Deploy AWS Lambda
+
+on:
+  push:
+    branches: [ master, lambda-functions ]
+
 jobs:
   deploy:
     name: Upload to AWS
