@@ -41,7 +41,7 @@ describe('lambda handler', () => {
     const result = JSON.parse(await index.handler(event))
 
     // assert
-    result.should.eql([
+    result.should.deep.equal([
       { 'id': 1, 'premiere': '2008/10/03', 'finale': '2009/03/20', 'episodes': 22 },
       { 'id': 2, 'premiere': '2009/10/02', 'finale': '2010/04/30', 'episodes': 22 },
       { 'id': 3, 'premiere': '2010/09/17', 'finale': '2011/04/01', 'episodes': 0 },
@@ -62,7 +62,7 @@ describe('lambda handler', () => {
     const result = JSON.parse(await index.handler(event))
 
     // assert
-    result.should.eql({ id: 1, premiere: '2008/10/03', finale: '2009/03/20', episodes: 22 })
+    result.should.deep.equal({ id: 1, premiere: '2008/10/03', finale: '2009/03/20', episodes: 22 })
   });
 
   it('should return episodes', async () => {
